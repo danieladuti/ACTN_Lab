@@ -10,5 +10,3 @@
 ### Silver-Pohlig-Hellman algorithm
 - implementation for computing discrete logarithms 
 
----
-- comparisons between the version with the usual modular reduction and the dedicated modular reduction 
